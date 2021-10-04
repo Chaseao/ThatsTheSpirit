@@ -1,0 +1,9 @@
+2 3 4 5 3
+(DANI) This is the living room. I know the floating furniture is… unconventional. 
+(YOU) No! I like the vibes of this place. 
+(DANI) Really? This doesn’t seem like your style. 
+(YOU) I think it really fits your personality!
+(DANI) *Dani’s cheeks turn a little pink*
+(DANI) Come on now, get to work. This room isn’t going to clean itself.
+(YOU) *you start cleaning the living room*
+(DANI) So… What hobbies do you do in your free time?

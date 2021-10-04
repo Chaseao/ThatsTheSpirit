@@ -1,0 +1,8 @@
+1 1 1 1 4
+(DANI): Alright, this is the last room!
+(YOU) Really? Noooo, I was enjoying talking with you.
+(DANI) I liked getting to know you as well.
+(YOU) *As you clean the room, you hum to yourself* 
+(DANI) *Dani begins to help you, humming along in harmony*
+(YOU) Hey Dani, I was wondering if I could ask you a question?
+(DANI) Sure!

@@ -1,0 +1,9 @@
+2 3 4 5 1
+(DANI) Welcome to my humble abode. 
+(DANI) I try to keep this place tidy, but some unfortunate events have happened recently... thanks to a certain somebody.
+(YOU) I think the place looks... good … 
+(DANI) Hey! Don’t give my mansion sass!
+(YOU) No! I didn’t mean it like that, I actually think it’s a wonderful place!
+(DANI) Get to work cleaning up your mess!
+*While cleaning*
+(DANI) So, what got you into the very niche career of ghost hunting?

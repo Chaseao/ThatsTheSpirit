@@ -1,0 +1,9 @@
+2 2 2 2 4
+(DANI) Oh, what places do you like to explore?
+(YOU) All kinds of places! Abandoned houses, catacombs, carnivals...
+(DANI) I love exploring abandoned carnivals! Spooky merry-go-rounds and the haunted houses are the best!
+(YOU) Have you ever been to an abandoned mine?
+(DANI) No, but I heard those have the best hauntings 
+(YOU) We should go to one together some time! 
+(DANI) That would be great!
+(DANI) Alright, come on, we have one more room to clean up.
