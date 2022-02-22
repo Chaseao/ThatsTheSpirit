@@ -21,7 +21,14 @@ public class ActLoader : MonoBehaviour
     {
         if(FindObjectsOfType<ActLoader>().Length > 1)
         {
-            Destroy(gameObject);
+            if (SceneManager.GetActiveScene().buildIndex == 0)
+            {
+                Destroy(FindObjectOfType<ActLoader>().gameObject);
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
         }
 
         DontDestroyOnLoad(gameObject);
@@ -29,6 +36,15 @@ public class ActLoader : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         gameObject.tag = "Act Loader";
     }
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            //Application.Quit();
+        }
+    }
+
 
     public IEnumerator SetNextScene(int nextSceneNum)
     {
